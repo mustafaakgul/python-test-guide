@@ -1,0 +1,3 @@
+- pytest
+- pytest -v test_files.py
+- pytest -vv
